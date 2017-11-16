@@ -1,7 +1,7 @@
 Getting started
 ===============
 
-So Yeti sounds cool, but how to I actually use it? Glad you asked. even though
+So Yeti sounds cool, but how do I actually use it? Glad you asked. even though
 great efforts have been made to "build the manual into the UI", it's natural
 that some questions arise.
 
